@@ -5,7 +5,7 @@ SELECT
   CONCAT(e.firstName, ' ', e.lastName) AS represetantive_name
 FROM
   Customers AS c
-JOIN
+LEFT JOIN
   Employees AS e
 ON
   c.salesRepEmployeeNumber = e.employeeNumber;
