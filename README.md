@@ -22,11 +22,11 @@ classicmodels-solutions/
 
 ## database schema
 
-`Offices`: Office locations and contact details.
-`Employees`: Organizational structure and sales reps.
-`Customers`: Customer information linked to sales representatives.
-`Products` & `ProductLines`: Catalog items categorized by line.
-`Orders` & `OrderDetails`: Order headers, line items, quantities, and pricing.
+`Offices`: Office locations and contact details.\
+`Employees`: Organizational structure and sales reps.\
+`Customers`: Customer information linked to sales representatives.\
+`Products` & `ProductLines`: Catalog items categorized by line.\
+`Orders` & `OrderDetails`: Order headers, line items, quantities, and pricing.\
 `Payments`: Customer payment transactions.
 
 Refer to [`classicmodels/classicmodels-diagram.pdf`](./classicmodels/classicmodels-diagram.pdf) for the complete ERD.
